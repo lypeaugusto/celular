@@ -11,8 +11,10 @@ body{
 }
 main{display: flex;
     align-items: center;
+    padding-top: 60px;
 }
 section#iphone{
+    
     width: 310px;
     height: 620px;
     background: url('imagens/frame-iphone.png');
@@ -23,7 +25,6 @@ display: flex;
 flex-direction: column;
 justify-content: flex-end;
 gap: 30px;
-bo
 }
 
 
@@ -40,8 +41,9 @@ img.social{
 }
 
 iframe#tela{
-    height: 559px;
-    width: 266px; ;
+
+    height: 472px;
+    width: 267px; ;
     padding-top: 80px;
     padding-left: 21px;
 }
